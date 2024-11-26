@@ -12,7 +12,7 @@
 	"license": "MIT",
 	"main": "common/assets/js/moderndeck-electronhost.js",
 	"resolutions": {
-		"@electron/universal": "1.3.0"
+		"@electron/universal": "1.4.1"
 	},
 	"scripts": {
 		"incBuild": "node build/incrementBuild.js",
