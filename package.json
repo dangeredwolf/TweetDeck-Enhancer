@@ -71,7 +71,7 @@
 		"@types/node": "^17.0.39",
 		"@types/twit": "^2.2.31",
 		"adm-zip": "^0.5.9",
-		"babel-loader": "^8.2.5",
+		"babel-loader": "^8.3.0",
 		"electron": "^19.1.9",
 		"electron-builder": "^23.3.3",
 		"fs-extra": "^10.1.0",
